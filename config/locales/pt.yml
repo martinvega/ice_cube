@@ -91,14 +91,14 @@ pt:
     on_weekends: nos finais de semana
     on_weekdays: nos dias úteis
     days_on:
-      - Domingos
-      - Segundas-feiras
-      - Terças-feiras
-      - Quartas-feiras
-      - Quintas-feiras
-      - Sextas-feiras
-      - Sábados
-    on_days: nos dias: %{days}
+      - domingos
+      - segundas-feiras
+      - terças-feiras
+      - quartas-feiras
+      - quintas-feiras
+      - sextas-feiras
+      - sábados
+    on_days: 'nos dias: %{days}'
     array:
       last_word_connector: ' e '
       two_words_connector: ' e '

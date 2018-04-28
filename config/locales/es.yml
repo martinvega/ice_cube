@@ -70,13 +70,13 @@ es:
     on_weekends: en fin de semana
     on_weekdays: en días laborables
     days_on:
-    - los domingos
-    - los lunes
-    - los martes
-    - los miércoles
-    - los jueves
-    - los viernes
-    - los sábados
+    - domingos
+    - lunes
+    - martes
+    - miércoles
+    - jueves
+    - viernes
+    - sábados
     on_days: '%{days}'
     array:
       last_word_connector: ' y '
