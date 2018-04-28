@@ -98,7 +98,7 @@ pt:
       - Quintas-feiras
       - Sextas-feiras
       - Sábados
-    on_days: no dia %{days}
+    on_days: nos dias: %{days}
     array:
       last_word_connector: ' e '
       two_words_connector: ' e '
